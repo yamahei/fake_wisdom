@@ -1,3 +1,5 @@
+require File.expand_path('../../lib/fake_wisdom', __FILE__)
+
 RSpec.describe FakeWisdom do
 
   context "general" do
